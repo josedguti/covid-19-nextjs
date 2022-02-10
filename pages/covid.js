@@ -19,7 +19,7 @@ function Covid() {
   };
 
   return (
-    <>
+    <div className="pb-40">
       <br />
       <br />
       <div className="text-center">
@@ -154,7 +154,7 @@ function Covid() {
         </div>
       </div>
       <MenuDrop />
-    </>
+    </div>
   );
 }
 
