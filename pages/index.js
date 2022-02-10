@@ -4,7 +4,7 @@ import Link from "next/link";
 
 function Home() {
   return (
-    <>
+    <div className="pb-40">
       <br />
       <br />
       <br />
@@ -46,7 +46,8 @@ function Home() {
           </Link>
         </button>
       </div>
-    </>
+      
+    </div>
   );
 }
 
